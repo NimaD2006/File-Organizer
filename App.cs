@@ -44,7 +44,7 @@ namespace FileOrganizer
                 }
                 else
                 {
-                    MessageBox.Show("Please Enter A Valid Path!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Enter A Valid Path!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     txtPath.Focus();
                 }
             }
