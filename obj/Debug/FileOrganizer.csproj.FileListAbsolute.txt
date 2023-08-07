@@ -1,0 +1,11 @@
+D:\Code\FileOrganizer\bin\Debug\FileOrganizer.exe.config
+D:\Code\FileOrganizer\bin\Debug\FileOrganizer.exe
+D:\Code\FileOrganizer\bin\Debug\FileOrganizer.pdb
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.csproj.AssemblyReference.cache
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.csproj.SuggestedBindingRedirects.cache
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.App.resources
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.Properties.Resources.resources
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.csproj.GenerateResource.cache
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.csproj.CoreCompileInputs.cache
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.exe
+D:\Code\FileOrganizer\obj\Debug\FileOrganizer.pdb
